@@ -1,0 +1,23 @@
+body{
+    background-image: url(team07.jpg);
+}
+h1{
+    color: rgb(248, 15, 15);
+    font-size: 40px;
+}
+label{
+    font-size: 23px;
+    font-weight: bold;
+    color: rgb(248, 15, 15);
+}
+button{
+    color: rgb(248, 15, 15);
+}
+p{
+    color: rgb(248, 15, 15);
+    font-size: 20px;
+}
+a{
+    color: rgb(248, 15, 15);
+    font-size: 20px;
+}

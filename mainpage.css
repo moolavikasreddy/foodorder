@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.obox{
+    border: solid 1px;
+    height: 700px;
+    background-image: url(team7.jpg);
+    background-repeat: no-repeat;
+    background-size: height 100px width 100px;
+}
+#in1{
+    border: solid 1px hidden;
+    height: 50px;
+}
+#in2{
+    border: solid 1px hidden;
+    height: 4908px;
+    text-align: center;
+}
+ul li{
+    border: solid 1px hidden;
+    height: 50px;
+    width: 160px;
+    float: left;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 20px;
+}
+ul{
+    list-style: none;
+}
+ul li a{
+    color: rgb(243, 245, 240);
+    font-size: 22px;
+    text-decoration: none;
+    font-weight: bold;
+}
+ul li:hover{
+    background-color: red;
+}
+h1{
+    color: red;
+    font-size: 60px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+p{
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+}
